@@ -4,7 +4,7 @@ metadata:
 projects:
   - name: dotnet-app
     source:
-      location: 'git@github.com:ProofOfConceptDeveloper/PFR.git'
+      location: 'https://github.com/ProofOfConceptDeveloper/PFR.git'
       type: git
 components:
   - id: redhat-developer/che-omnisharp-plugin/latest
