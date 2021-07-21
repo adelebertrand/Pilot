@@ -25,6 +25,21 @@ components:
         containerPath: /home/jboss/.nuget
     alias: dotnet
     image: 'registry.redhat.io/codeready-workspaces/stacks-dotnet-rhel8:2.8'
+    alias: pfr-ui
+    env:
+      - value: Codeready
+        name: ASPNETCORE_ENVIRONMENT
+  - mountSources: true
+    memoryLimit: 512Mi
+    type: dockerimage
+    volumes:
+      - name: nuget
+        containerPath: /home/jboss/.nuget
+    image: 'registry.redhat.io/codeready-workspaces/stacks-dotnet-rhel8:2.8'
+    alias: pfr-bre
+    env:
+      - value: Codeready
+        name: ASPNETCORE_ENVIRONMENT
   - type: kubernetes
     reference: codeready/crw-kafka.yaml
     alias: kafka
