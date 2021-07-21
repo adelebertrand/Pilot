@@ -137,21 +137,21 @@ commands:
         type: exec
         command: dotnet run
         component: pfr-bre
-    actions:
-      - referenceContent: |
-          {
-            "version": "0.2.0",
-              "configurations": [
-                 {
-                    "type": "netcoredbg",
-                    "request": "launch",
-                    "program": "/projects/dotnet-app/PoliticalFinanceReturn/PFR.Web.UI/bin/Debug/netcoreapp3.1/PFR.Web.UI.dll",
-                    "args": [],
-                    "name": ".NET Core Launch (console)",
-                    "stopAtEntry": true,
-                    "preLaunchTask": "Build",
-                    "console": "internalConsole"
-                  }
-              ]
-          }
-        type: vscode-launch
+#     actions:
+#       - referenceContent: |
+#           {
+#             "version": "0.2.0",
+#               "configurations": [
+#                  {
+#                     "type": "netcoredbg",
+#                     "request": "launch",
+#                     "program": "/projects/dotnet-app/PoliticalFinanceReturn/PFR.Web.UI/bin/Debug/netcoreapp3.1/PFR.Web.UI.dll",
+#                     "args": [],
+#                     "name": ".NET Core Launch (console)",
+#                     "stopAtEntry": true,
+#                     "preLaunchTask": "Build",
+#                     "console": "internalConsole"
+#                   }
+#               ]
+#           }
+#         type: vscode-launch
