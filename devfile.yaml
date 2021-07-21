@@ -86,25 +86,42 @@ components:
 #       - name: ME_CONFIG_MONGODB_SERVER
 #         value: localhost
 commands:
-  - name: Update dependencies
+  - name: 1. Update UI dependencies
     actions:
       - workdir: '${CHE_PROJECTS_ROOT}/dotnet-app/PoliticalFinanceReturn/PFR.Web.UI'
         type: exec
         command: dotnet restore
-        component: dotnet
-  - name: Build
+        component: pfr-ui
+  - name: 2. Build UI
     actions:
       - workdir: '${CHE_PROJECTS_ROOT}/dotnet-app/PoliticalFinanceReturn/PFR.Web.UI'
         type: exec
         command: dotnet build
-        component: dotnet
-  - name: Run
+        component: pfr-ui
+  - name: 3. Run UI
     actions:
       - workdir: '${CHE_PROJECTS_ROOT}/dotnet-app/PoliticalFinanceReturn/PFR.Web.UI'
         type: exec
         command: dotnet run
-        component: dotnet
-  - name: Launch .net web application in debug mode
+        component: pfr-ui
+  - name: 1. Update BRE dependencies
+    actions:
+      - workdir: '${CHE_PROJECTS_ROOT}/dotnet-app/PFR.Validation/bre/PFR.BRE/PFR.BRE'
+        type: exec
+        command: dotnet restore
+        component: pfr-bre
+  - name: 2. Build BRE
+    actions:
+      - workdir: '${CHE_PROJECTS_ROOT}/dotnet-app/PFR.Validation/bre/PFR.BRE/PFR.BRE'
+        type: exec
+        command: dotnet build
+        component: pfr-bre
+  - name: 3. Run BRE
+    actions:
+      - workdir: '${CHE_PROJECTS_ROOT}/dotnet-app/PFR.Validation/bre/PFR.BRE/PFR.BRE'
+        type: exec
+        command: dotnet run
+        component: pfr-bre
     actions:
       - referenceContent: |
           {
