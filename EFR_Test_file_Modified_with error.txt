@@ -1,0 +1,100 @@
+Contribution Date	Contribution Type	Type of contributor	Last Name	First Name	Initial Street #	Street Name	Suite # / Apt	City	Province	Postal Code	Estimated # of Contributors	Monetary Amount Given	Contribution Per CEA	Advantage Received Per ITA	Advantage Description
+10/02/2019	Monetary	Individual	Bouchard	Benoit	10	Abby Road		Gatineau	QC	J8N 7B5	10	100	100	0	
+20/06/2019	Monetary	Individual	Carriere	Brianna	2525	Adelaide		Hull	ON	H5H 9D9		200	100	100	Stylos
+28/03/2019	Monetary	Individual	Lee	Terra	60	Airplace		Ottawa	ON	J4N 8F6		250	250	0	
+20/02/2019	Monetary	Individual	Helders	Isabelle	54	Airport	5	Chicoutimi	ON	H5B 4H5		125	100	25	
+01/01/2019	Monetary	Individual	Sutherland	Laura	88	Barn		Quebec	QC	J4G 9D7		1600	1600	0	
+02/03/2019	Monetary	Individual	Emond	Josh	78	Bay		Montreal	NB	H5G 9T6		600	200	400	
+04/05/2019	Monetary	Individual	Hemond	Matt	50	Beatles		Toronto	BC	N3T 5J5		1200	1000	0	
+06/05/2019	Monetary	Individual	Girard	Lorrianne	25	Bus		Vancouver	BC	B3B 4H5		100	100	0	
+07/08/2019	Monetary	Individual	Lepage	Martin	24	Danish	2	Gatineau	BC	J3N 8D6		250	250	0	
+01/02/2019	Monetary	Individual	Witfrey	Gilles	56565	Delta		Hull	BC	J8N 4J5		400	400	0	
+01/03/2019	Monetary	Individual	Graham	Liz	98888	Dimitri		Ottawa	BC	K1N 8D8		200	100	100	
+04/02/2019	Monetary	Individual	Jamieson	Megan	5858	Bihoreaux		Chicoutimi	ON	K1N 9D5		200	200	0	
+05/08/2019	Monetary	Individual	Jauffroy	Patricia	524	Observatoire	7897	Montreal	ON	K1N 7D5	2	20	20	0	
+11/10/2019	Monetary	Individual	Patterson	Sarah	659	Louis-H‚bert		Toronto	ON	K1N 0D8		250	250	0	
+01/01/2019	Monetary	Individual	Saindon	Melanie	782	Slizabeth		Quebec	ON	K1N 8D7		500	500	250	ticket
+01/02/2019	Monetary	Other	Foster	Line	23	Elgin		Ottawa	ON	J8N 5H5		250	250	0	
+01/03/2019	Monetary	Individual	Burns	Josee	254	Empire	2626	Hull	QC	J8N 6H6	55	1375	1375	0	
+01/04/2019	Monetary	Individual	Copeland	Serge	16587	Delaware		Vancouver	QC	J8N 4G4		600	600	0	
+01/05/2019	Monetary	Individual	Hilliker	Mike	156	Dock		Victoria	QC	J8N 5G5		250	250	0	
+06/01/2019	Monetary	Individual	Laurin	Mika	187	Corn		Saskatoon	QC	J8N 5G5		250	250	0	
+07/01/2019	Monetary	Individual	Ouellette	Valerie	198	Copper		Halifax	QC	J8N 3G4		250	250	0	
+08/02/2019	Monetary	Individual	Wade	Verona	208	Costume	46464	Gatineau	QC	J8N 4GH		300	300	0	
+09/02/2019	Non-Monetary	Other	West	Romeo	209	Cresson		Ottawa	QC	J8N 4T4		300		0	
+19/01/2019	Monetary	Individual	Boye	Brenna	240	Industry		Aylmer	QC	J8N 5H2		450	450	0	
+07/09/2019	Monetary	Individual	Larson	Sylvie	580	Innovation		Vancouver	NB	J8N 4H4		500	500	0	
+12/02/2019	Monetary	Individual	Goguen	Marie	655	Highway	4	Gatineau	NB	K1N 9D7		600	600	0	
+14/05/2019	Monetary	Individual	Rempel	Martine	798	Hot-air		Halifax	NB	K1B 8D8		280	280	0	
+06/05/2019	Monetary	Individual	Rotherburger	Tracy	799	Hospital		Aylmer	NB	J6F 5H5		500	500	0	
+20/10/2019	Monetary	Individual	Young	Joyce								50	50	0	
+24/06/2019	Monetary	Individual	donehue	Nadia								25	25	0	
+05/10/2019	Monetary	Individual	Gorrell	Natalia	14568	Hendrix		Ottawa	BC	J8N 0B1		20	20	0	
+20/12/2019	Monetary	Individual	Meloche	Nathalia	1485	Haxlett		Montreal	BC	J8N 0B3		50	50	0	
+25/11/2019	Monetary	Individual	Gagnon	Linda	1498	Mandarin		Toronto	BC	J8N 4H5		60	60	0	
+26/12/2019	Monetary	Individual	Henderson	Nancy	1465	Maple	77	Toronto	QC	J8N 4Y4		150	50	100	wine
+20/08/2019	Monetary	Individual	Lane	Julie	1477	Mayores		Toronto	QC	J8N 5G5		500	500	0	
+08/09/2019	Monetary	Individual	McFarlane	Julien	14235	Millstreet		Toronto	QC	J8N 6H6		600	600	0	
+07/05/2019	Monetary	Individual	allabadi	Sharela	258	Monorail		Toronto	QC	J8N 4T4		250	250	0	
+06/04/2019	Monetary	Individual	Anand	Olivia	2541	Museum		Ottawa	ON	J8N 5H5		800	800	0	
+05/04/2019	Monetary	Individual	Baker	Kathleen	2563	New Orleans		Ottawa	ON	J8N 2H2		900	900	0	
+08/05/2019	Monetary	Individual	Bank	Fred	4873	Newport	55	Ottawa	ON	J8N 4K4		1200	1200	0	
+06/04/2019	Monetary	Individual	Beaudette	Manon	528	New Street		Ottawa	ON	J8N 4K4		1500	1500	0	
+11/12/2019	Monetary	Individual	Blum	Lia	15647	Pine		Ottawa	ON	J8N 2K2		1600	1600	0	
+05/11/2019	Monetary	Individual	Bota	Nila	2156	Rome		Quebec	ON	J8N 4L2		300	300	0	
+22/12/2019	Monetary	Individual	Bourgoin	Nia	5248	River		Montreal	ON	J8N 6Y6		400	400	0	
+05/09/2019	Monetary	Individual	Bowie	Kim	5269	Railway	43646	Quebec	ON	J8N 3K3		500	500	0	
+16/01/2019	Monetary	Individual	Branch	Kloee	6952	Shail		Montreal	ON	K1N 7H7		680	680	0	
+18/02/2019	Monetary	Individual	Breton	Kris	9682	School		Quebec	ON	K1N 8D8		250	250	0	
+28/03/2019	Monetary	Individual	Britton	Christopher	963	Sebastien		Montreal	NB	K1N 9D5		600	600	0	
+09/02/2019	Monetary	Individual	Casterton	Guy	955	Silver		Ottawa	NB	J8N 5H5		200	200	0	
+29/04/2019	Monetary	Individual	Chan	Jean-guy	96	Shipping	6	Toronto	NB	J8N 3K3		210	210	0	
+13/04/2019	Monetary	Individual	Choinard	Renee	98	Quarry	4	Saskatoon	NB	J8N 2L2		220	220	0	
+13/06/2019	Monetary	Individual	Coleman	Marie-soleil	925	Plaze		Victoria	NB	J8N 1L1		260	260	0	
+28/06/2019	Monetary	Individual	Conrod	Victoria	646	Princess		Gatineau	BC	J8N 5H5		560	560	0	
+07/11/2019	Monetary	Individual	Copp	Bijou	258	Venice		Halifax	BC	K1N 9F9		590	590	0	
+08/10/2019	Monetary	Individual	Copperland	Jack	265	Vienne		Hull	BC	K1N 9D9		580	580	0	
+20/01/2019	Monetary	Individual	Cormier	Jean	458	William		Quebec	BC	H4N 3H3		600	600	0	
+21/01/2019	Monetary	Individual	Cousins	Tim	478	Woodstock	8	Montreal	ON	G4B 2K2		680	680	0	
+23/01/2019	Monetary	Individual	Cox	Louis	985	Second		Toronto	ON	H7H 5H5		670	670	0	
+24/01/2019	Monetary	Individual	Crant	Claudette	852	Church		Toronto	ON	G3G 8H8		950	950	0	
+25/02/2019	Monetary	Individual	Cunnigham	Claudine	564	Pine		Toronto	ON	J8N 5G5		580	580	0	
+25/03/2019	Monetary	Individual	Cusack	Louise	84	Elm	7	Toronto	ON	J8N 2G2		450	450	0	
+25/04/2019	Monetary	Individual	Delorme	Blaise	5	Ninth		Toronto	ON	J8N 5H6		460	460	0	
+25/05/2019	Monetary	Individual	Dorion	Lorrie	2	Oak		Toronto	ON	J8N 3H4		470	70	0	
+25/06/2019	Monetary	Individual	Duclaud	Lee-anne	10	Queen		Toronto	QC	J8N 5F7		600	600	0	
+26/01/2019	Monetary	Individual	Hartinger	Tom	11	Eleventh		Toronto	QC	J8N 3G4		650	650	0	
+26/02/2019	Monetary	Individual	Hayes	Bill	15	James	22	Montreal	QC	J8N 6H3		200	100	100	Cheese
+26/03/2019	Monetary	Individual	Howieson	William	19	North		Montreal	QC	J8N 9D0		100	100	0	
+26/04/2019	Monetary	Individual	Huidson	Jean	20	Campbell		Montreal	QC	J8N 5Y5		250	250	0	
+26/05/2019	Monetary	Individual	Jahoe	Viviane	25	Ceday		Montreal	QC	J8N 6L0		600	600	0	
+06/06/2019	Monetary	Individual	Kang	Vivianne	24	First		Montreal	QC	J8N 6Y7		800	800	0	
+26/06/2019	Monetary	Individual	Klassen	Lavoie	28	Main		Halifax	QC	J8N 4S2		900	900	0	
+26/07/2019	Monetary	Individual	Laflamme	Leena	26	Fourth		Halifax	ON	J8N 3V4		1200	1200	0	
+26/08/2019	Monetary	Individual	Koury	Mirelle	24	Cameron	4	Halifax	ON	J8N 4C9		1100	1100	0	
+26/09/2019	Monetary	Individual	Abbas	Mila	28	Robert		Victoria	ON	J8N 5Z3		1200	1200	0	
+26/10/2019	Monetary	Individual	Acheson	Milan	29	Centennial		Saskatoon	ON	J8N 4M4		1600	1600	0	
+26/11/2019	Monetary	Individual	Adaimy	Mirna	99	Ross		Quebec	ON	J8N 5L4		1400	1400	0	
+26/12/2019	Monetary	Individual	Adaire	Arthur	95	Forest		Quebec	ON	J8N 6L6		145	145	0	
+10/01/2019	Monetary	Individual	Anderson	Mike	92	Taylor		Quebec	BC	K1N 9D9		500	500	0	
+10/02/2019	Monetary	Individual	Amuotte	Renelle	65	Nelson		Quebec	BC	K1A 8D8		550	550	0	
+10/03/2019	Monetary	Individual	Anand	Roxanne	64	Beach	5	Quebec	BC	K1A 9D9		650	650	0	
+10/04/2019	Monetary	Individual	Andrasi	Mireille	60	Woodland		Montreal	BC	K1A 5B5		400	400	0	
+10/05/2019	Monetary	Individual	Andre	Mitra	68	Saint-Joseph		Toronto	BC	K1A 9F0		500	500	0	
+10/06/2019	Monetary	Individual	Alton	Justin	5287	Charles		Montreal	BC	K1A 3H4		800	800	0	
+10/07/2019	Monetary	Individual	Alvarez	Justine	1254	Ross		Toronto	NB	K1A 7F0		980	980	0	
+10/08/2019	Monetary	Individual	Alves	Bryan	12555	Nelson		Saskatoon	NB	K1A 4B0		970	970	0	
+10/09/2019	Monetary	Individual	Amar	Brian	12003	Roy	1	Halifax	NB	K1A 2B4		940	940	0	
+10/10/2019	Monetary	Individual	Baig	Milene	254	Thompson		Montreal	NB	K1A 6B6		980	980	0	
+10/11/2019	Monetary	Individual	Bahri	Michelle	506	Pioneer		Toronto	NB	J8N 5H5		950	950	0	
+10/12/2019	Monetary	Individual	Balint	Pierre	592	Fraser		Toronto	ON	J8N 3L3		650	650	0	
+14/01/2019	Monetary	Individual	Ball	Mikyla	594	West		Toronto	ON	J8N 3K3		460	460	0	
+14/02/2019	Monetary	Individual	Bamfort	George	582	Hill		Toronto	ON	J8N 5L3		450	450	0	
+14/03/2019	Monetary	Individual	Bandula	Miles	555	Douglas	7	Toronto	ON	J8N 5Y6		444	444	0	
+14/04/2019	Monetary	Individual	Bang	Amelie	666	Robert		Toronto	ON	J8N 3G3		450	450	0	
+14/05/2019	Monetary	Individual	Bailey	Amelia	444	Country road		Saskatoon	QC	J8N 6J3		520	520	0	
+14/06/2019	Monetary	Individual	Bastien	Veronika	888	Echassier		Toronto	QC	J8N 5H7		510	510	0	
+14/07/2019	Monetary	Individual	Basque	Veronique	789	Hull		Halifax	QC	J8N 0D8		555	555	0	
+14/08/2019	Monetary	Individual	Bartley	Bibi	456	Gatineau	2	Vancouver	QC	J8N 4G4		666	666	0	
+14/09/2019	Monetary	Individual	Bartko	Genevieve	123	Maloney		Victoria	ON	J8N 4H5		777	777	0	
+20/10/2019	Monetary	Individual	Barrios	Milaine	321	Grand main		Halifax	ON	K1A J3B		888	888	0	
