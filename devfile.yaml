@@ -4,7 +4,7 @@ metadata:
 projects:
   - name: dotnet-app
     source:
-      location: 'git@github.com:ProofOfConceptDeveloper/PFR.git'
+      location: 'https://git@github.com:ProofOfConceptDeveloper/PFR.git'
       startPoint: master
       type: git
 components:
